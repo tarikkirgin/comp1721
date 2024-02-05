@@ -1,8 +1,11 @@
-public class Circle
+import java.io.IOException;
+import java.io.Writer;
+
+public class CircleThree implements Writeable
 {
     private double radius;
 
-    public Circle(double r)
+    public CircleThree(double r)
     {
         radius = r;
     }
@@ -20,5 +23,10 @@ public class Circle
     public double perimeter()
     {
         return Math.PI * 2 * radius;
+    }
+
+    public void writeTo(Writer destination) throws IOException
+    {
+        destination.write(String.format("Circle: r=%.4f\n", getRadius()));
     }
 }

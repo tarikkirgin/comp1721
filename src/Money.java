@@ -1,22 +1,35 @@
-public class Money {
-  private int euros, cents;
+import java.io.IOException;
+import java.io.Writer;
 
-  public Money(int e, int c) {
-    euros = e;
-    cents = c;
-  }
+public class Money implements Writeable
+{
+    private int euros, cents;
 
-  public int getEuros() {
-    return euros;
-  }
+    public Money(int e, int c)
+    {
+        euros = e;
+        cents = c;
+    }
 
-  public int getCents() {
-    return cents;
-  }
+    public int getEuros()
+    {
+        return euros;
+    }
 
-  public Money plus(Money other) {
-    int sumEuros = euros + other.euros;
-    int sumCents = cents + other.cents;
-    return new Money(sumEuros + sumCents / 100, sumCents % 100);
-  }
+    public int getCents()
+    {
+        return cents;
+    }
+
+    public Money plus(Money other)
+    {
+        int sumEuros = euros + other.euros;
+        int sumCents = cents + other.cents;
+        return new Money(sumEuros + sumCents / 100, sumCents % 100);
+    }
+
+    public void writeTo(Writer destination) throws IOException
+    {
+        destination.write(String.format("Money: %.2f\n", ((double) getEuros()) + ((double) getCents() / 100)));
+    }
 }
