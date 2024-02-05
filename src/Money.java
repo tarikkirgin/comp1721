@@ -30,6 +30,6 @@ public class Money implements Writeable
 
     public void writeTo(Writer destination) throws IOException
     {
-        destination.write(String.format("Money: %.2f\n", ((double) getEuros()) + ((double) getCents() / 100)));
+        destination.write(String.format("Money: €%.2f\n", (getEuros()) + ((double) getCents() / 100)));
     }
 }
