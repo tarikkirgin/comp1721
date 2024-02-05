@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6ec2a27-6e32-4d87-9fcd-53e28711fc66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Exercise 1/Weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 10/CircleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 10/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 10/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 10/Writeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 2/Spheroid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 3/ErrorChecking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 4/CheckPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 5/MeanValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 6/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 6/CircleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 7/CircleDemoTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 7/CircleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 8/ComputeMean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 8/Dataset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 8/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 9/AlarmClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 9/AlarmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise 9/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlarmClock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlarmTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircleDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircleDemoTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircleThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircleTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputeMean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dataset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ErrorChecking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MeanValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spheroid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Weight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Writeable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2bwrPdVIZOyUqTTCBrxghW2xfwd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6ec2a27-6e32-4d87-9fcd-53e28711fc66" name="Changes" comment="" />
+      <created>1707136959207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707136959207</updated>
+      <workItem from="1707136962835" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

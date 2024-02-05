@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
-public class Weight {
-    public static void main() {
+public class Weight
+{
+    public static void main(String[] args)
+    {
         Scanner stdin = new Scanner(System.in);
         System.out.print("Enter weight in kg: ");
         double weight_kg = stdin.nextDouble();
