@@ -5,8 +5,7 @@ import java.util.Scanner;
 
 public class Dataset
 {
-    private ArrayList<Double> data;
-
+    private ArrayList<Double> data = new ArrayList<Double>();
 
     public Dataset(String filename) throws IOException
     {
