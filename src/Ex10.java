@@ -21,6 +21,7 @@ public class Ex10
         {
             thing.writeTo(out);
         }
+        out.flush();
     }
 
     public static void main(String[] args)
