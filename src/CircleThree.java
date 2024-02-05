@@ -24,7 +24,7 @@ public class CircleThree implements Writeable
     {
         return Math.PI * 2 * radius;
     }
-
+    
     public void writeTo(Writer destination) throws IOException
     {
         destination.write(String.format("Circle: r=%.4f\n", getRadius()));
